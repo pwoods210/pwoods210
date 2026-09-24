@@ -18,13 +18,13 @@ PostgreSQL, and Docker.
 Multiplayer browser game combining AI-assisted GIF interpretation
 with deterministic server-authoritative combat.
 
-[Technical Showcase](https://github.com/pwoods210/Gif-Fight-Showcase) · [Play Live](giffight.io)
+[Technical Showcase](https://github.com/pwoods210/Gif-Fight-Showcase) · [Play Live](https://giffight.io)
 
 ### 🚀 Drift Salvage
 Real-time browser space game featuring physics-based movement,
 progression systems, and responsive desktop/mobile gameplay.
 
-[Technical Showcase](https://github.com/pwoods210/Drift-Salvage-Showcase) · [Play Live](drift-salvage.com)
+[Technical Showcase](https://github.com/pwoods210/Drift-Salvage-Showcase) · [Play Live](https://drift-salvage.com)
 
 ## Technologies
 
