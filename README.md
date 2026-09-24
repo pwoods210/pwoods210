@@ -1,16 +1,32 @@
-## Hi there 👋
+# Patrick Woods
 
-<!--
-**pwoods210/pwoods210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer specializing in C++, Python, and full-stack development.
 
-Here are some ideas to get you started:
+Professional experience building autonomous and distributed systems,
+with independent projects spanning web applications, multiplayer
+systems, AI integration, and blockchain infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### 🪙 TerMEMEal
+Full-stack Solana trading dashboard built with React, TypeScript,
+PostgreSQL, and Docker.
+
+[View Source]
+
+### 🥊 GIF Fight
+Multiplayer browser game combining AI-assisted GIF interpretation
+with deterministic server-authoritative combat.
+
+[Technical Showcase] · [Play Live]
+
+### 🚀 Drift Salvage
+Real-time browser space game featuring physics-based movement,
+progression systems, and responsive desktop/mobile gameplay.
+
+[Technical Showcase] · [Play Live]
+
+## Technologies
+
+C++ · Python · TypeScript · React · FastAPI · PostgreSQL ·
+WebSockets · Docker · Git · Linux
