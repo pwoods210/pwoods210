@@ -12,19 +12,19 @@ systems, AI integration, and blockchain infrastructure.
 Full-stack Solana trading dashboard built with React, TypeScript,
 PostgreSQL, and Docker.
 
-[View Source]
+[View Source](https://github.com/pwoods210/TerMEMEal)
 
 ### 🥊 GIF Fight
 Multiplayer browser game combining AI-assisted GIF interpretation
 with deterministic server-authoritative combat.
 
-[Technical Showcase] · [Play Live]
+[Technical Showcase](https://github.com/pwoods210/Gif-Fight-Showcase) · [Play Live](giffight.io)
 
 ### 🚀 Drift Salvage
 Real-time browser space game featuring physics-based movement,
 progression systems, and responsive desktop/mobile gameplay.
 
-[Technical Showcase] · [Play Live]
+[Technical Showcase](https://github.com/pwoods210/Drift-Salvage-Showcase) · [Play Live](drift-salvage.com)
 
 ## Technologies
 
